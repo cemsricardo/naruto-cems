@@ -1,0 +1,93 @@
+.text-naruto
+{
+  color: rgb(255, 241, 51) !important;
+}
+
+#header img
+{
+  width:  70px;
+}
+
+#main .carousel-inner img{
+
+  max-height: 83vh;
+
+}
+
+#header a
+{
+  color:rgb(255, 241, 51) !important;
+}
+
+
+ 
+#cards  
+{
+  background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
+}
+
+#cards small
+{
+  color:white;
+}
+
+#cards h1
+{
+  color:white;
+}
+
+
+#konoha 
+{
+  background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
+}
+
+#konoha img
+{
+  max-width: 100%;
+}
+
+#konoha h2,
+#konoha p ,
+#honoha a{
+  color: white;
+}
+
+#footer a
+{
+   color: white;
+}
+
+#carousel {
+position: relative;
+}
+
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color :rgba( 0, 0, 0 , 0.5);
+  color: white
+}
+
+#registrar h1,
+#registrar p
+{
+  color: white
+}
+#registrar title
+{
+  color:black;
+}
+#registrar 
+{
+  background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row
+{
+  height: 100%;
+}
